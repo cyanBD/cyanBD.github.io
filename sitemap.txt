@@ -1,2 +1,4 @@
+http://example.com/categories/a.html
+http://example.com/home/a.html
 http://example.com/2022/07/10/Leveraging-Line-point-Consistence-to-Preserve-Structures-for-Wide-Parallax-Image-Stitching-%E7%AC%94%E8%AE%B0/
 http://example.com/
